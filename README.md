@@ -1,4 +1,4 @@
-# Correlation and regression for data analysis
+# EX:3 Correlation and regression for data analysis
 # Date : 5/11/2024
 # Aim : 
 
